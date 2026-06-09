@@ -33,7 +33,7 @@ elif plan=="Premium":
 elif plan=="VIP":
     screen = 5
     price = 599
-print("------------------------------------")
+
 print(f"Welcome {username}")
 print(f"plan: {plan.upper()} | {price}/month")
 print(f"screens: {screen} | HD: {hd}")
